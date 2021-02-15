@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c177c06.chunk.css",
+    "main.js": "/static/js/main.a9b190e9.chunk.js",
+    "main.js.map": "/static/js/main.a9b190e9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.581c8c85.js",
+    "runtime-main.js.map": "/static/js/runtime-main.581c8c85.js.map",
+    "static/css/2.645fc3df.chunk.css": "/static/css/2.645fc3df.chunk.css",
+    "static/js/2.b0d4b839.chunk.js": "/static/js/2.b0d4b839.chunk.js",
+    "static/js/2.b0d4b839.chunk.js.map": "/static/js/2.b0d4b839.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.645fc3df.chunk.css.map": "/static/css/2.645fc3df.chunk.css.map",
+    "static/css/main.9c177c06.chunk.css.map": "/static/css/main.9c177c06.chunk.css.map",
+    "static/js/2.b0d4b839.chunk.js.LICENSE.txt": "/static/js/2.b0d4b839.chunk.js.LICENSE.txt",
+    "static/media/global.css": "/static/media/GreycliffCF-Regular.df1c1ca0.woff2",
+    "static/media/bpmn-embedded.css": "/static/media/bpmn.cfe117ed.svg",
+    "static/media/carousel-1.4dcda722.jpeg": "/static/media/carousel-1.4dcda722.jpeg",
+    "static/media/carousel-2.4696985e.jpeg": "/static/media/carousel-2.4696985e.jpeg",
+    "static/media/login.e2852afe.jpg": "/static/media/login.e2852afe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.581c8c85.js",
+    "static/css/2.645fc3df.chunk.css",
+    "static/js/2.b0d4b839.chunk.js",
+    "static/css/main.9c177c06.chunk.css",
+    "static/js/main.a9b190e9.chunk.js"
+  ]
+}
